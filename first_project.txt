@@ -1,5 +1,5 @@
 Hello World!!
 This is the 2nd line
-this is the 3rd line
-Adding a line for direct commit without staging
 Adding another line for direct commit without staging
+my name is gokul
+I am learning git
