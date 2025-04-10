@@ -2,3 +2,4 @@ Hello world!!
 this is my 2nd file
 testing the git diff commmand
 hiii new line again
+added a line for git diff stages
