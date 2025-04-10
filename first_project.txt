@@ -6,3 +6,4 @@ I am learning git
 one last line for direct commit without statging
 added line for git diff
 Final line:
+.
