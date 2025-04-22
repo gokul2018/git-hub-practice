@@ -6,3 +6,7 @@ let me modify it
 
 
 Git diff only works before stating, but if you want to check the changes in staging area, then use --staging
+cant do it with commited
+
+when you want to delete a file from git, dont delete from your working directory, but do it from git
+git rm --cached filename
