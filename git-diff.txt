@@ -1,0 +1,4 @@
+This is used to find the difference between the changes made before and after commit.
+
+Hello world!! thats the greeting.
+take the input from user, add the values.
