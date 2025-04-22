@@ -2,3 +2,7 @@ This is used to find the difference between the changes made before and after co
 
 Hello world!! thats the greeting.
 take the input from user, add the values.
+let me modify it 
+
+
+Git diff only works before stating, but if you want to check the changes in staging area, then use --staging
