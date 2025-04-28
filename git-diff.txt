@@ -10,3 +10,12 @@ cant do it with commited
 
 when you want to delete a file from git, dont delete from your working directory, but do it from git
 git rm --cached filename
+
+git branch -M main
+git remote add origin 
+
+git push -u origin main #-u means upstream...
+
+git remote -v
+
+added a new line
