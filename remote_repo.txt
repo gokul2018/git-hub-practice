@@ -1,3 +1,12 @@
 git push origin main 
 origin is the URL we had cloned and were working only
 main is the main branch of that repo.
+
+git remote -v to find out what is our origin.
+
+git show 1.79.0 
+git show tagnumber to get the detail of the particular tag. 
+
+git log --pretty=oneline #you get the commits in one line with the message. 
+
+Hello again
